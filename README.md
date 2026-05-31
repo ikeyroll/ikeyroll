@@ -40,4 +40,4 @@ Power BI • Azure • PostgreSQL • Tailwind CSS • Supabase • Docker
 
 * Website: https://facez.my
 * LinkedIn: linkedin.com/in/khairolizzul
-* Email: [keyrollpalin@gmail.com](mailto:keyrollpalin@gmail.com)
+* Email: [ikeyroll@gmail.com](mailto:ikeyroll@gmail.com)
