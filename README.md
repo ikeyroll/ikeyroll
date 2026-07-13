@@ -14,13 +14,21 @@ Founder & CEO at **Facez Co.**, building AI-powered software, automation systems
 ## 🏆 Achievements
 
 🏆Champion of the Robotic & Coding Conquest 2025 (International AI & IoT for SDG Hackathon🌐)
+
 🏆Champion of the Varsity AI Hackathon 2025 (National Hackathon🇲🇾)
+
 🏆1st Runner-up the Sustainable Entrepreneurial Mindset Showcase (UTM) 
+
 🏆1st Runner-up Startup 2024 (UTM)
+
 🏆2nd Runner-up of the Microsoft APAC AI for Accessibility Hackathon (Microsoft APAC)
+
 🏆Deriv <AI> Hackathon 2025 Award's Winner (Deriv Ltd & JomHack)
+
 🏆Deriv <AI> Hackathon 2026 Award's Winner (Deriv Ltd & JomHack)
+
 🏅Google AI KitaHack Top 10 Finalist (Google MY) over 600+ participants across Malaysia
+
 
 ## 💻 Tech Stack
 
